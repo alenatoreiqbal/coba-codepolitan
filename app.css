@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    font-size: medium;
+    background-color: aqua;
+}
+
+button {
+    color: darkblue;
+    background-color: tan;
+}
+
+p {
+    color: white;
+    background-color: grey;
+}
